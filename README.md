@@ -1,8 +1,8 @@
 # Bash_Scripts
-Bash Script to do automatic the work.
+Bash Script to do work automatically.
 
 ### Instruction
-Download script to run using Curl:
+Download script using Curl:
 
 ```
 curl -LO script_raw_link
