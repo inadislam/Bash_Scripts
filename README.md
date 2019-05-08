@@ -11,7 +11,11 @@ if you want to copy or download the ```install_jupyter.sh``` file. So your comma
 ```
 curl -LO https://raw.githubusercontent.com/inadislam/Bash_Scripts/master/install_jupyter.sh
 ```
-and than just run ```install_jupyter.sh``` by typing this command in your command promt or termux:-
+and than just run by typing this command in your command promt or termux:-
 ```
-bash install_jupyter.sh
+bash script-name.sh
+```
+in my case its ```install-jupyter.sh``` so my command is
+```
+bash install-jupyter.sh
 ```
