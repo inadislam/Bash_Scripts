@@ -39,3 +39,5 @@ if [[ $permission == "Y" || $permission == "y" || $permission == "Yes" || $permi
 else
 	echo "Okay!! as your wish"
 fi
+
+echo "type vim and hit enter when vim will open type in visual :PluginInstall"
