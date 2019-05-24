@@ -36,8 +36,7 @@ if [[ $permission == "Y" || $permission == "y" || $permission == "Yes" || $permi
 	clear
 	sleep 1
 	echo "Install VIM IDE Done"
+        echo "type vim and hit enter when vim will open type in visual :PluginInstall"
 else
 	echo "Okay!! as your wish"
 fi
-
-echo "type vim and hit enter when vim will open type in visual :PluginInstall"
