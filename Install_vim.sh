@@ -24,7 +24,7 @@ if [[ $permission == "Y" || $permission == "y" || $permission == "Yes" || $permi
 	clear
 	sleep 1
 	echo "Installing Vim-Python"
-	pkg install vim-python
+	pkg install vim-python -y
 	clear
 	sleep 1
 	echo "Cloning Vundle.vim package for smart plugins"
